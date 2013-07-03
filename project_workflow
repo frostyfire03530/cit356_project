@@ -1,0 +1,45 @@
+Check if local_Storage content exists
+	TRUE{
+		Build the HTML divs from the local_Storage
+		animate the divs to the screen
+		}
+	FALSE{
+		Display "Loading"
+		Using AJAX load the json file to local_Storage
+		Build the HTML divs from the local_Storage
+		animate the divs to the screen
+		
+
+/* 
+ * To change this template, choose Tools | Templates
+ * and open the template in the editor.
+ * 
+		{
+			"title":		"",
+			"subtitle":		"",
+			"description":	"",
+			"img":			"",
+			"price":		"",
+			"category":		"",
+			"brand":		"",
+			"amount":		"",
+			"unit":			"",
+			"deal":			"",
+			"onSale":		"",
+			"store":		""
+		},
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ */
+
+86400 seconds in a day
+86400000 mili-seconds in a day
+60000
+
+1372451916 seconds
+1372451916504 miliseconds 

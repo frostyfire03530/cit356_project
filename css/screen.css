@@ -1,0 +1,56 @@
+/* 
+    Document   : screen
+    Created on : May 8, 2013, 2:19:44 PM
+    Author     : Frosty
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+html, body { height: 100%; width: 100%; margin: 0; }
+
+#wrapper{
+	width: 100%;
+	height: 100%;
+	background-color: #BDFFF6;
+}
+
+#header{
+	background-color: #5C968E;
+	height:20%;
+}
+
+#contentWrapper{
+	width: 100%;
+	height: 65%;
+	margin: 0 auto;
+	background-color: #61C9BA;
+}
+
+#content{
+	background-color: #61C9BA;
+}
+
+#footer{
+	background-color: #5C968E;
+	height:15%;
+}
+
+#searchBar{
+	height:75%;
+	background-color: #61C9BA;
+	position: relative;
+	top:12.5%;
+	bottom:12.5%;
+}
+
+.foodObjectThumb{
+	float: left;
+	margin: 1% 2%;
+	height: 90%;
+	width: 19%;
+	background-color: #000000;
+}
+
+#chips_price{
+	color: #FFFFFF;
+}
