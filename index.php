@@ -11,11 +11,12 @@
 			<header id="header">
 				<div class="foodObjectThumb">
 					<span id="chips_price"></span>
+					<span id="food_pridce"></span>
 				</div>
 			</header>
 			<div id="contentWrapper">
 				<div id="content">
-					<span>This is the mainContent</span>
+					<div id="products"></div>
 				</div>
 			</div>
 			<footer id="footer">
